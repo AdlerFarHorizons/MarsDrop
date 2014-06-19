@@ -1,0 +1,3 @@
+[submodule "software/ParawingControl"]
+	path = software/ParawingControl
+	url = git@github.com:AdlerFarHorizons/ParawingControl.git
